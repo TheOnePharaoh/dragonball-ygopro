@@ -1,0 +1,44 @@
+CDB Edit Log
+1-Freeza
+Monster by battle, you can destroy
+Monster by battle: You can destroy
+
+2-Pump Up
+Target one "Freeza" or "Cell (Perfect)" card you control, double its ATK. During the End Phase, destroy that card and send it to the graveyard. You can only activate one "Pump Up" per turn.
+Target 1 "Freeza" or "Cell (Perfect)" monster you control: Double its ATK. During the End Phase, destroy it. You can only activate 1 "Pump Up" per turn.
+
+3-Freeza (First Form)
+Once per turn, you can discard one card from your hand to destroy one attack position monster your opponent controls. During the End Phase, if this card destroyed an opponent's monster as a result of battle, you can tribute this card to Special Summon "Freeza (Second Form)" from your Hand or Deck.
+Once per turn: You can discard 1 card from your hand; Destroy 1 Attack Position monster your opponent controls. During the End Phase, if this card destroyed a monster by battle this turn: You can tribute this card; Special Summon 1 "Freeza (Second Form)" from your Hand or Deck.
+
+4-Majin Buu's Revival
+This card is used to Ritual Summon "Majin Buu", you must also offer monsters from your Hand or your side of the Field whose level equals 7 or more.
+This card is used to Ritual Summon "Majin Buu". You must also Tribute monsters whose total Levels equal 7 or more from the field or your hand.
+
+5-Majin Buu (Evil)
+If "Majin Buu" is face-up on the Field, this card gains 500 ATK. Cannot be destroyed by battle, and you take no Battle Damage from battles involving this card. Once per turn you can target a face-up monster on the field, halve its ATK.
+If "Majin Buu" is face-up on the Field, this card gains 500 ATK. Cannot be destroyed by battle. You take no Battle Damage from battles involving this card. Once per turn: You can target 1 face-up monster on the field; its ATK becomes half its current ATK.
+
+6-Freeza (Second Form)
+Once per turn, destroy one of your opponent's attack position monsters with an ATK equal to or lower than this card's ATK. During the End Phase, you can Tribute this card to Special Summon "Freeza (Third Form)" from your Hand or Deck.
+Once per turn: you can destroy 1 face-up Attack Position monster your opponent controls. whose ATK is equal or less than this card's ATK. During the End Phase: You can tribute this card; Special Summon 1 "Freeza (Third Form)" from your Hand or Deck.
+
+7-Freeza (Third Form)
+This card cannot be Normal or Special Summoned except by the effect of "Freeza (Second Form)". Once per turn, you can destroy one monster your opponent controls. During the End Phase, you can tribute this card to Special Summon "Freeza" from your Hand or Deck.
+This card cannot be Normal or Special Summoned except by the effect of "Freeza (Second Form)". Once per turn: You can destroy 1 monster your opponent controls. During the End Phase: You can tribute this card; Special Summon 1 "Freeza" from your Hand or Deck.
+
+8-Freeza
+Cannot be destroyed by card effects.
+Cannot be destroyed by your opponent's card effects.
+
+9-Freeza (Second Form)
+During the End Phase
+During your End Phase: You can tribute this card; Special Summon 1 "Freeza (Third Form)" from your Hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)
+
+10-Freeza (Third Form)
+During the End Phase: You can tribute this card; Special Summon 1 "Freeza" from your Hand or Deck.
+During your End Phase: You can tribute this card; Special Summon 1 "Freeza" from your Hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)
+
+11-Dabura's Stone Spit
+Target one monster your opponent controls. It cannot attack, and its DEF becomes 0.
+Target 1 monster your opponent controls; it cannot attack while it is face-up on the field, and its DEF becomes 0.
